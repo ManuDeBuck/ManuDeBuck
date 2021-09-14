@@ -1,16 +1,19 @@
-### Hi there 👋
+### hi there 👋
 
-<!--
-**ManuDeBuck/ManuDeBuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__i'm a software engineer from ghent__
 
-Here are some ideas to get you started:
+💡 vastly interested in machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💚 loving well-written, thoughtful code
+
+🌱 always learning
+
+💬 open for discussing ideas
+
+👷 always creating things
+
+🎧 jazz, rock, classical, cabaret...
+
+🎹 🥁 🎮 🏃 in my spare time
+
+📚 bsc informatics, msc computer science engineering
