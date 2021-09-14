@@ -8,9 +8,9 @@ __i'm a software engineer from ghent__
 
 🌱 always learning
 
-💬 open for discussing ideas
+💬 open for discussion
 
-👷 always creating things
+👷 always creating
 
 🎧 jazz, rock, classical, cabaret...
 
