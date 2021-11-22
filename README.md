@@ -1,6 +1,6 @@
 ### hi there 👋
 
-__i'm a software engineer from ghent__
+__i'm a software engineer from ghent (belgium)__
 
 💡 vastly interested in machine learning
 
