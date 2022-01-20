@@ -16,4 +16,4 @@ __i'm a software engineer from ghent (belgium)__
 
 🎹 🥁 🎮 🏃 in my spare time
 
-📚 bsc informatics, msc computer science engineering
+📚 bsc computer science, msc computer science engineering
